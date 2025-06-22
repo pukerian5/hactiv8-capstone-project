@@ -17,7 +17,7 @@ Tujuannya adalah membantu pelaku bisnis otomotif, khususnya platform jual-beli k
 ## 🧾 Raw Dataset
 
 Dataset digunakan berasal dari Kaggle:
-> [Vehicle Sales Dataset on Kaggle](**https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data**)
+> [Vehicle Sales Dataset on Kaggle](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 
 Dataset telah dibersihkan, diproses, dan dikategorikan berdasarkan harga jual terhadap nilai MMR (Manheim Market Report).
 
